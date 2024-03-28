@@ -1,1 +1,1 @@
-# bestdeveloper-django-python
+# BestDeveloper Python Django Template
